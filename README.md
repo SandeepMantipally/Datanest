@@ -1,37 +1,44 @@
-# Flask Web App Tutorial
+# 🧠 Datanest — Flask Web Application
 
-## Setup & Installation
+**Datanest** is a student project built with **Flask** that demonstrates a web application with user authentication (login, signup) and database integration using **Flask-SQLAlchemy**.  
+This project is an example of a simple, full-stack Python web app suitable for learning and portfolio use.
 
-Make sure you have the latest version of Python installed.
+---
 
-```bash
-git clone <repo-url>
-```
+## 📌 Project Overview
 
-```bash
-pip install -r requirements.txt
-```
+Datanest provides:
 
-## Running The App
+✔ User registration and login  
+✔ Persistent user data using SQLite database  
+✔ Organized Flask project structure  
+✔ Ready for deployment (e.g., on Render or other hosting platforms)
 
-```bash
-python main.py
-```
+---
 
-## Viewing The App
+## 🧱 Features
 
-Go to `http://127.0.0.1:5000`
+✨ **User Authentication**  
+Users can create accounts and securely log in.
+
+📦 **Database Integration**  
+Uses **Flask-SQLAlchemy** to store and manage user data.
+
+⚙️ **Modular Structure**  
+Code is organized to separate views, models, and templates.
+
+🚀 **Deployment Ready**  
+Configured with a `Procfile` for deployment on cloud platforms like Render.
+
+---
+
+## 🛠 Technology Stack
+
+| Component | Technology |
+|-----------|-------------|
+| Backend | Python, Flask |
+| Database | SQLite (via SQLAlchemy) |
+| Deployment | Render (Recommended) |
+| UI | HTML, CSS (Jinja2 Templates) |
 
 
-# 💻 Launch Your Software Development Career Today!  
-
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
-
-🚀 **Why Join?**  
-- 💼 **$70k+ starting salary potential**  
-- 🕐 **Self-paced:** Complete on your own time  
-- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
-- 🎯 **45,000+ job openings** in the market  
-
-👉 **[Start your journey today!](https://techwithtim.net/dev)**  
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
